@@ -1,0 +1,3 @@
+2.	Vad är ett Git-commit och varför är det viktigt?
+Beskriv ett verkligt scenario där Git hjälper dig undvika problem. 
+Svar: Git commit är en funktion som sparar allt och att man kan gå tillbaka och se vart och när man har gjort något istället för att börja från noll. Exempelvis när jag skriver i word dokument så sparas allt som jag skriver och varje gång jag gör nya ändringar och öppnar dokumentet igen kommer det upp när, vilka ändringar och vem som har skrivit i dokumentet. Detta gör det lättare för mig att hålla koll på mitt arbete och underviker att problem ska uppstå eller att jag ska göra om något.  
